@@ -5,7 +5,7 @@ The picture, e-mail, name I made with VUE.JS is an  randomly api application.
 #
 ## App view
 <img src="pic.PNG" alt="Picture"></img>
-#
+
 ## Codpen.io
 [Codpen account link](https://codepen.io/oguzhan1881)
 ## Github Account Link
