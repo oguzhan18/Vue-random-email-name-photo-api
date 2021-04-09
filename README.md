@@ -4,7 +4,7 @@ The picture, e-mail, name I made with VUE.JS is an  randomly api application.
 - file CSS3 was used
 #
 ## App view
-<img src="pic.png"></img>
+<img src="pic.PNG" alt="Picture"></img>
 #
 ## Codpen.io
 [Codpen account link](https://codepen.io/oguzhan1881)
